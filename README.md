@@ -65,9 +65,7 @@
     </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/ImaFdo/ImaFdo/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
