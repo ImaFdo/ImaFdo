@@ -22,7 +22,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/imasha fernando" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imasha fernando" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/imashafernando" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imasha fernando" height="40" width="50" /></a>
 <a href="https://fb.com/imasha fernando" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imasha fernando" height="40" width="50" /></a>
 <a href="https://instagram.com/imasha fernando" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imasha fernando" height="40" width="50" /></a>
 <a href="https://discord.gg/immiiifdo03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="immiiifdo03" height="40" width="50" /></a>
