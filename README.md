@@ -1,20 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋%20I'm%20Imasha&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋%20I'm%20Imasha&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=CODE+%7C+CREATE+%7C+CONQUER+🚀;Full+Stack+Developer+💻;BIT+Undergraduate+🎓;Always+Learning+New+Things+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Full+Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;Angular+%26+React+Developer;BIT+Undergraduate" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/ImaFdo">
-    <img src="https://img.shields.io/github/followers/ImaFdo?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/ImaFdo">
-    <img src="https://img.shields.io/github/stars/ImaFdo?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=ImaFdo&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
@@ -129,12 +123,12 @@ fields_of_expertise:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ImaFdo&show_icons=true&count_private=true&hide_border=true&title_color=3CDEF7&icon_color=3CDEF7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Imasha Fernando GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ImaFdo&show_icons=true&count_private=true&hide_border=true&title_color=3CDEF7&icon_color=3CDEF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.demolab.com/?user=ImaFdo&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=3CDEF7&ring=3CDEF7&fire=FF6347&currStreakLabel=3CDEF7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaFdo&layout=compact&hide_border=true&title_color=3CDEF7&text_color=c9d1d9&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaFdo&layout=compact&hide_border=true&title_color=3CDEF7&text_color=c9d1d9&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImaFdo&bg_color=0d1117&color=3CDEF7&line=3CDEF7&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 </div>
 
@@ -145,25 +139,6 @@ fields_of_expertise:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ImaFdo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImaFdo/ImaFdo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImaFdo/ImaFdo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ImaFdo/ImaFdo/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 💼 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
