@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Full+Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;Angular+%26+React+Developer;BIT+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=100&lines=Full+Stack+Web+Developer;Spring+Boot+Enthusiast;React+%26+Angular+Developer;BIT+Undergraduate+%40+UCSC" alt="Typing SVG" />
 </div>
 
 <br>
@@ -124,12 +124,19 @@ fields_of_expertise:
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ImaFdo&show_icons=true&count_private=true&hide_border=true&title_color=3CDEF7&icon_color=3CDEF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.demolab.com/?user=ImaFdo&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=3CDEF7&ring=3CDEF7&fire=FF6347&currStreakLabel=3CDEF7" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.demolab.com/?user=ImaFdo&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=3CDEF7&ring=3CDEF7&fire=FF6347&currStreakLabel=3CDEF7" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaFdo&layout=compact&hide_border=true&title_color=3CDEF7&text_color=c9d1d9&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImaFdo&bg_color=0d1117&color=3CDEF7&line=3CDEF7&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImaFdo&bg_color=0d1117&color=3CDEF7&line=3CDEF7&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
